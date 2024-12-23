@@ -32,8 +32,8 @@
 <br>- 🔭 My own Unity game for android.(https://drive.google.com/drive/folders/17vLaCiRy2uXFjneh_llYQ3lH72IQo3Jx) 
 <br>- 📚 Research experience at Skoltech University
 <br>- ⚡ Participation in data science competitions
-<br>- 🫧 3-rd place in Hackathon of the Innovation Centers Forum(FIC) 2024 (case "Contextual translation of scientific work titles")</p>
-
+<br>- 🫧 3-rd place in Hackathon of the Innovation Centers Forum(FIC) 2024 (case "Contextual translation of scientific work titles")
+<br>- 🌠 3-rd place in X-MAS Hackathon 2024 (case "Highly efficient payment pipeline")</p>
 ###
 
 <h3 align="left">🛠 Skills:</h3>
