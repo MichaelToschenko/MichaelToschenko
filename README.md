@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I am a student at Moscow State University. I am actively developing in the field of data science. I have research experience in the more theoretical field of physics, and at the moment we are engaged in scientific work with my supervisor in the field of ML. I also take part in Kaggle competitions. In my GitHub, I will post my code related to data science from both competitions and academic life.
+<p align="left">I am a student at Moscow State University and intern at Sber. I am actively developing in the field of data science. I have research experience in the more theoretical field of physics, and at the moment we are engaged in scientific work with my supervisor in the field of RL. I also take part in Kaggle competitions. In my GitHub, I will post my code related to data science from both competitions and academic life.
 
 ###
 
@@ -29,11 +29,10 @@
 
 ###
   
-<br>- 🔭 My own Unity game for android.(https://drive.google.com/drive/folders/17vLaCiRy2uXFjneh_llYQ3lH72IQo3Jx) 
 <br>- 📚 Research experience at Skoltech University
-<br>- ⚡ Participation in data science competitions
-<br>- 🫧 3-rd place in Hackathon of the Innovation Centers Forum(FIC) 2024 (case "Contextual translation of scientific work titles")
-<br>- 🌠 3-rd place in X-MAS Hackathon 2024 (case "Highly efficient payment pipeline")</p>
+<br>- 💵 Internship at Sber(GigaProd.Data)
+<br>- ⚡ Several hackathons wins
+<br>- 🧑🏻‍🏫 Active participation in professional events
 ###
 
 <h3 align="left">🛠 Skills:</h3>
