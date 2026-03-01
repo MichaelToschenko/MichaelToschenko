@@ -30,7 +30,6 @@
 ###
   
 <br>- 📚 Research experience at Skoltech University
-<br>- 💵 Internship at Sber(GigaProd.Data)
 <br>- ⚡ Several hackathons wins
 <br>- 🧑🏻‍🏫 Active participation in professional events
 ###
