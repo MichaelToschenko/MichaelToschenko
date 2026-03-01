@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I am a student at Moscow State University and intern at Sber. I am actively developing in the field of data science. I have research experience in the more theoretical field of physics, and at the moment we are engaged in scientific work with my supervisor in the field of RL. I also take part in Kaggle competitions. In my GitHub, I will post my code related to data science from both competitions and academic life.
+<p align="left">I am a student at Moscow State University. I am actively developing in the field of data science. I have research experience in the more theoretical field of physics, and at the moment we are engaged in scientific work with my supervisor in the field of RL. I also take part in Kaggle competitions. In my GitHub, I will post my code related to data science from both competitions and academic life.
 
 ###
 
