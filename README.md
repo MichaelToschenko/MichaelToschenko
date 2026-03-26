@@ -32,5 +32,6 @@
 <br>- 📚 Research experience at Skoltech University
 <br>- ⚡ Several hackathons wins
 <br>- 🧑🏻‍🏫 Active participation in professional events
+<br>- ☄️ Holder of a 100% grant for the English-speaking Master's program in Innopolis
 ###
 
