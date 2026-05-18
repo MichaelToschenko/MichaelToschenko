@@ -21,17 +21,18 @@
 
 ###
 
-<p align="left">I am a student at Moscow State University. I am actively developing in the field of AI. I have research experience in the more theoretical field of physics, and at the moment we are engaged in scientific work with my supervisor in the field of RL. I also take part in Kaggle competitions. In my GitHub, I will post my code related to data science from both competitions and academic life.
+<p align="left">I am a student at Moscow State University. I am actively developing in the field of AI. I have research experience in the more theoretical field of physics, and at the moment we are engaged in scientific work with my supervisor in the field of RL. In my GitHub, I will post my code related to data science from both competitions and academic life.
 
 ###
 
 <h3 align="left">👩‍💻 Professional achievements</h3>
 
 ###
-  
-<br>- 📚 Research experience at Skoltech University
+<br>- 🌵 Internship at Sber (Audio modality of Gigachat)
+<br>- 🐬 Published article at the ICRAS 2026 Conference (Kyoto, Japan)
 <br>- ⚡ Several hackathons wins
 <br>- 🧑🏻‍🏫 Active participation in professional events
-<br>- ☄️ Holder of a 100% grant for the English-speaking Master's program in Innopolis
+<br>- ☄️ Holder of the maximum grants to Innopolis and Central University
+<br>- 📚 Research experience at Skoltech University
 ###
 
