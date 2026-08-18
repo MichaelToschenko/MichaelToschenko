@@ -28,7 +28,7 @@
 <h3 align="left">👩‍💻 Professional achievements</h3>
 
 ###
-<br>- 🌵 Internship at Sber (Audio modality of Gigachat)
+<br>- 🌵 Junior ML Engineer at Sber (Audio modality of Gigachat)
 <br>- 🐬 Published article at the ICRAS 2026 Conference (Kyoto, Japan)
 <br>- ⚡ Several hackathons wins
 <br>- 🧑🏻‍🏫 Active participation in professional events
